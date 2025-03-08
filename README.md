@@ -21,9 +21,10 @@ Welcome to **MonkeyScripts**! 🐵 This repository is a collection of **Tampermo
 
 ## 📂 Available Scripts
 
-| Script Name                                                             | Description                                                |
-| ----------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [Invidious Customizations](./scripts/InvidiousCustomizations/README.md) | Auto-adjusts playback speed and enhances the Invidious UI. |
+| Script Name                                                                        | Description                                                |
+| ---------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| [Invidious Customizations](./scripts/InvidiousCustomizations/README.md)            | Auto-adjusts playback speed and enhances the Invidious UI. |
+| [Jayuzumi Soundboard Downloader](./scripts/JayuzumiSoundboardDownloader/README.md) | Adds batch download buttons for Jayuzumi soundboards.      |
 
 ## 🛠 Contributing
 
